@@ -22,7 +22,7 @@ public class FamousQuotes {
 
 
 
-            Scanner myScanner = new Scanner(System.in);
+        Scanner myScanner = new Scanner(System.in);
 
 
             System.out.println(" pick a number between 1 and 10");
